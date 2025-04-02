@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android Developer from Egypt</h3>
 
 # 💫 About Me:
-🔭 I’m currently studying computer science<br>🌱 I’m currently learning more in android development<br>🔎 I'm looking for an internship or work in order to improve my skills as well as increase my experience and knowledge<br>💬 Ask me about anything if you want<br>📄 Know about my experiences [https://drive.google.com/file/d/1Vc_gDGqqFt8ZQoJhssDpvZji66yJ7y7p/view](https://drive.google.com/file/d/18r7EelQ065tR8TkE-TWcIcj614zkbQXu/view?usp=drivesdk)
+🔭 I’m Android Developer with hands-on experience in creating, testing, and maintaining Android applications<br>🌱 Passionate about learning new technologies<br>🔎 I'm looking for an internship or work in order to improve my skills as well as increase my experience and knowledge<br>💬 Ask me about anything if you want<br>📄 Know about my experiences [https://drive.google.com/file/d/1Vc_gDGqqFt8ZQoJhssDpvZji66yJ7y7p/view](https://drive.google.com/file/d/18r7EelQ065tR8TkE-TWcIcj614zkbQXu/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
